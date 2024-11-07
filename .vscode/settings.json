@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*properties": "java-properties",
+        "stdio.h": "c"
+    }
+}

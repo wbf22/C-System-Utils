@@ -1,0 +1,1 @@
+gcc pretty-json.c -o json
